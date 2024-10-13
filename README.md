@@ -24,4 +24,4 @@ Instalasi modul:
   - `python Run.py`
  
 - Masukkan kata kunci yang ingin dicari pada Threads. Kata kunci dapat dipisah dengan koma jika ingin mencari beberapa sekaligus.
-- Tautan yang ditemukan akan disimpan di file Data/Done.txt dan juga ditampilkan di terminal.
+- Tautan yang ditemukan akan disimpan di file `Data/Done.txt` dan juga ditampilkan di terminal.
