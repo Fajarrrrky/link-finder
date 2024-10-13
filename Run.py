@@ -57,6 +57,7 @@ class asset:
           'referer': "https://www.threads.net/search?q=lagi%20sebar%20dana&serp_type=default",
           'accept-language': "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
         }
+	    
     def get_data(self, req):
         return {
           "av": re.findall('"actorID":"(\d+)"', req)[0],
