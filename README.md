@@ -15,5 +15,13 @@
   - `requests`
 
 Instalasi modul:
-```bash
-pip install requests
+- `pip install requests`
+- 
+## Cara menggunakan
+- Clone repositories
+  - `git clone https://github.com/Fajarxyta/link-finder.git`
+  - `cd dana-link-finder`
+  - `python Run.py`
+ 
+- Masukkan kata kunci yang ingin dicari pada Threads. Kata kunci dapat dipisah dengan koma jika ingin mencari beberapa sekaligus.
+- Tautan yang ditemukan akan disimpan di file Data/Done.txt dan juga ditampilkan di terminal.
