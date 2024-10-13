@@ -16,7 +16,7 @@
 
 Instalasi modul:
 - `pip install requests`
-- 
+
 ## Cara menggunakan
 - Clone repositories
   - `git clone https://github.com/Fajarxyta/link-finder.git`
