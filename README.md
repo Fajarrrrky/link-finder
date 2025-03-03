@@ -19,7 +19,7 @@ Instalasi modul:
 
 ## Cara menggunakan
 - Clone repositories
-  - `git clone https://github.com/Fajarxyta/link-finder.git`
+  - `git clone https://github.com/Fajarrrrkylink-finder.git`
   - `cd dana-link-finder`
   - `python Run.py`
  
